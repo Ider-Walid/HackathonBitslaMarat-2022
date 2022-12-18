@@ -1,4 +1,4 @@
-# HackathonBitslaMarato-2022
+# Hackathon BitsxlaMarato 2022
 
 This is the work corresponding to our participation to the Hackathon BitsxlaMarato 2022. 
 Our team was the Shambala Team, composed of : 
